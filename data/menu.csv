@@ -1,0 +1,29 @@
+﻿item_id,item_name,type,pairing_tag,price,profit_margin
+M01,舒肥紅酒燉牛肉,主食,Red_Meat,480,0.4
+M02,爐烤伊比利豬肩,主食,Red_Meat,520,0.38
+M03,炭烤戰斧牛排,主食,Red_Meat,880,0.35
+M04,松露野菌燉飯,主食,Cheese,420,0.45
+M05,白酒蛤蜊義大利麵,主食,Seafood,380,0.44
+M06,香煎鮭魚佐檸檬,主食,Seafood,460,0.42
+S01,紹興油泡蝦,副食,Seafood,280,0.7
+S02,西班牙蒜辣蝦,副食,Seafood,260,0.68
+S03,伊比利火腿盤,副食,Cheese,380,0.65
+S04,三種起司拼盤,副食,Cheese,340,0.66
+S05,松露薯條,副食,Fried,180,0.72
+S06,酥炸花枝圈,副食,Fried,220,0.7
+S07,炙燒櫛瓜佐油醋,副食,Universal,160,0.68
+D01,提拉米蘇,甜點,Dessert,180,0.65
+D02,焦糖烤布蕾,甜點,Dessert,160,0.67
+W01,馬爾貝克紅酒(杯),酒水,Red_Meat,280,0.62
+W02,卡本內蘇維翁(杯),酒水,Red_Meat,320,0.6
+W03,夏多內白酒(杯),酒水,Seafood,260,0.62
+W04,白蘇維翁(杯),酒水,Seafood,280,0.61
+W05,氣泡酒(杯),酒水,Fried,300,0.63
+W06,Negroni,酒水,Cheese,350,0.76
+W07,Old Fashioned,酒水,Red_Meat,380,0.75
+W08,Gin & Tonic,酒水,Universal,300,0.78
+W09,精釀 IPA,酒水,Fried,260,0.58
+W10,小麥白啤酒,酒水,Fried,240,0.57
+W11,威士忌 Highball,酒水,Cheese,300,0.74
+W12,季節水果特調,酒水,Universal,340,0.77
+W13,無酒精莫吉托,酒水,Universal,180,0.8
